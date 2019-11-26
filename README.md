@@ -8,5 +8,5 @@ JavaScript - мои реализованные проекты:
 
 Мои работы по верстке:
 
-[Мебельный магазин](https://natalimaevskaya.github.io/olios/ "Мебельный магазин") 
+1. [Мебельный магазин](https://natalimaevskaya.github.io/olios/ "Мебельный магазин") 
 
